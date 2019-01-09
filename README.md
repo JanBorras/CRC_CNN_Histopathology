@@ -8,3 +8,5 @@ The paper is about to be released in the next month and it is going to be upload
 You may download the images to train the CNN, install the dependencies and then run the script from a Jupyter Notebook session mounted inside of the fastai environment. Remember to point all the paths to the correct folders.
 
 Data used in this article can be accessed via https://zenodo.org/record/53169#.XB0hr8Yo9wE. 
+
+You can also find a repository with the resulting images of the study in the following Gdrive link: [drive.google.com](https://drive.google.com/drive/folders/1o9eAswDJuugGWLhjdmzHs4ZnBMIzAAqM?usp=sharing)
