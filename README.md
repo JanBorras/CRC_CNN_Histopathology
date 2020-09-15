@@ -2,7 +2,7 @@
 
 Final Master Project by Jan Borràs Ros. The aim of this repository is to make information about this project available to everyone.
 
-This project use the frameworks FastAI (https://github.com/fastai/fastai) and PyTorch (https://github.com/pytorch/pytorch) from Python. The scripts provided here need a proper installation of Fastai, PyTorch and all its dependencies. It is recommended that you use Jupyter Notebook to run the script.
+This project use the frameworks FastAI (https://github.com/fastai/fastai) and PyTorch (https://github.com/pytorch/pytorch) from Python to train a CNN model able to identify 7 different tissues in a Whole Slide Image from CRC biopsy with ~96% accuracy. The scripts provided here need a proper installation of Fastai, PyTorch and all its dependencies. It is recommended that you use Jupyter Notebook to run the script.
 
 You can find the final report here: http://openaccess.uoc.edu/webapps/o2/bitstream/10609/91366/3/jborrasrosTFM0119memoria.pdf (In catalan lenguage)
 
