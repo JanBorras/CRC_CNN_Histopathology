@@ -1,12 +1,20 @@
 # CRC_CNN_Histopathology
 
-Final Master Project by Jan Borràs Ros. The aim of this repository is to make information about this project available to everyone.
+__Final Master’s Project by Jan Borràs Ros__
 
-This project use the frameworks FastAI (https://github.com/fastai/fastai) and PyTorch (https://github.com/pytorch/pytorch) from Python to train a CNN model able to identify 7 different tissues in a Whole Slide Image from CRC biopsy with ~96% accuracy. The scripts provided here need a proper installation of Fastai, PyTorch and all its dependencies. It is recommended that you use Jupyter Notebook to run the script.
+This repository contains the code and resources for a Convolutional Neural Network (CNN) designed to classify seven distinct tissue types in whole-slide images from colorectal cancer (CRC) biopsies, achieving an accuracy of approximately 96%.
 
-You can find the final report here: http://openaccess.uoc.edu/webapps/o2/bitstream/10609/91366/3/jborrasrosTFM0119memoria.pdf (In catalan lenguage)
+The project is implemented in Python using the (https://github.com/fastai/fastai)[FastAI]
+ and (https://github.com/pytorch/pytorch)[PyTorch] frameworks. To run the provided scripts, please ensure that FastAI, PyTorch, and their dependencies are properly installed. We recommend using a Jupyter Notebook environment for executing the scripts.
 
-Download the images to train the CNN, install the dependencies and then run the script from a Jupyter Notebook session mounted inside of the fastai environment. Remember to point all paths to the correct folders.
+You can access the full project report (in Catalan) here: (https://openaccess.uoc.edu/items/233b3a79-1898-44ed-b553-c3910f5b5c7c/full)[Final Report]
 
-Data used in this article can be accessed via https://zenodo.org/record/53169#.XB0hr8Yo9wE. 
+## Usage
 
+Download the dataset used to train the CNN from (https://zenodo.org/records/53169#.XB0hr8Yo9wE)[Zenodo]
+
+Install the required dependencies.
+
+Launch a Jupyter Notebook session within the FastAI environment.
+
+Update all file paths in the scripts to match your local directory structure.
