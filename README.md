@@ -1,4 +1,4 @@
-# CRC_CNN_Histopathology
+# Colorrectal Cancer CNN Classifier
 
 __Final Master’s Project by Jan Borràs Ros__
 
